@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Remove Android Factions' Muffalo carriers if they have them. -->
+	<Operation Class="PatchOperationConditional">
+        <xpath>Defs/FactionDef[defName="ATR_AndroidUnion"]/pawnGroupMakers/li/carriers/Muffalo</xpath>
+        <match Class="PatchOperationRemove">
+            <xpath>Defs/FactionDef/pawnGroupMakers/li/carriers/Muffalo</xpath>
+        </match>
+	</Operation>
+
+	<!-- Add the Drone TORT unit to Android Factions' carriers. -->
+	<Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>MH: Android Tiers</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs/FactionDef[defName="ATR_AndroidUnion"]/pawnGroupMakers/li/carriers</xpath>
+            <value>
+                <ATMB_DroneTORT>6</ATMB_DroneTORT>
+            </value>
+        </match>
+	</Operation>
+
+</Patch>

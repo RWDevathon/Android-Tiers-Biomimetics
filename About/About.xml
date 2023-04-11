@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Android Tiers Biomimetics</name>
+	<name>MH: Mechanical Biomimetics</name>
     <author>Killathon</author>
     <supportedVersions>
 		<li>1.4</li>
@@ -13,15 +13,27 @@
             <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
         </li>
         <li>
-            <packageId>Killathon.AndroidTiersReforged</packageId>
-            <displayName>Android Tiers Reforged</displayName>
-            <steamWorkshopUrl>steam://url/CommunityFilePage/2917948202</steamWorkshopUrl>
-            <downloadUrl>https://github.com/RWDevathon/Android-Tiers-Reforged.git</downloadUrl>
+            <packageId>erdelf.HumanoidAlienRaces</packageId>
+            <displayName>Humanoid Alien Races 2.0</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+            <downloadUrl>https://github.com/RimWorld-CCL-Reborn/AlienRaces</downloadUrl>
+        </li>
+        <li>
+            <packageId>Killathon.MechanicalHumanlikesCore</packageId>
+            <displayName>Mechanical Humanlikes Core</displayName>
+            <steamWorkshopUrl></steamWorkshopUrl>
+            <downloadUrl>https://github.com/RWDevathon/Dev_Mechanical-Humanlikes-Core</downloadUrl>
+        </li>
+        <li>
+            <packageId>Killathon.MechHumanlikes.AndroidTiersCore</packageId>
+            <displayName>Android Tiers Core</displayName>
+            <steamWorkshopUrl></steamWorkshopUrl>
+            <downloadUrl>https://github.com/RWDevathon/Android-Tiers-Reforged-Core</downloadUrl>
         </li>
     </modDependencies>
-    <packageId>Killathon.AndroidTiersBiomimetics</packageId>
+    <packageId>Killathon.MechHumanlikes.MechanicalBiomimetics</packageId>
     <loadAfter>
-        <li>Killathon.AndroidTiersReforged</li><!-- Dependency -->
+        <li>Killathon.MechHumanlikes.AndroidTiersCore</li>
     </loadAfter>
     <description><![CDATA[
 This dev project is an extended sub-mod of Android Tiers Reforged
