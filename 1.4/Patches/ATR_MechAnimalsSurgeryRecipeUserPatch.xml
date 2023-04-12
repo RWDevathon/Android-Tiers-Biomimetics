@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <!-- Add mechanical animals to MHC's generic surgery recipes at the abstract level -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/RecipeDef[@Name = "MHC_surgeryMechanicalBase"]/recipeUsers</xpath>
+        <value>
+            <li>ATMB_DroneChemUnit</li>
+            <li>ATMB_DroneMineralUnit</li>
+            <li>ATMB_DroneNutritionUnit</li>
+            <li>ATMB_DroneTORT</li>
+            <li>ATMB_DroneWatchdog</li>
+        </value>
+    </Operation>
+
+    <!-- Add mechanical animals to ATR's android surgery recipes at the abstract level -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/RecipeDef[@Name = "ATR_surgeryMechanicalBase"]/recipeUsers</xpath>
+        <value>
+            <li>ATMB_DroneChemUnit</li>
+            <li>ATMB_DroneMineralUnit</li>
+            <li>ATMB_DroneNutritionUnit</li>
+            <li>ATMB_DroneTORT</li>
+            <li>ATMB_DroneWatchdog</li>
+        </value>
+    </Operation>
+
+</Patch>
