@@ -2,7 +2,7 @@
 <Defs>
 
 	<BodyDef>
-		<defName>ATMB_MechBipedal</defName>
+		<defName>ATB_MechBipedal</defName>
 		<label>Bipedal drone</label>
 		<corePart>
             <def>ATR_MechanicalThorax</def>

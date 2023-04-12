@@ -2,7 +2,7 @@
 <Defs>
 
     <ThingDef ParentName="ATR_MechanicalAnimalThingBase">
-        <defName>ATMB_MicroScyther</defName>
+        <defName>ATB_MicroScyther</defName>
         <label>Micro Scyther</label>
         <description>A small flying drone with two side-mounted plasteel blades. While not particularly dangerous alone, these drones are rarely ever seen alone. Swarms can shred targets to pieces swiftly.\n\nThese drones have barebones IFF sensors, and will attack any non-microscyther.</description>
 		<statBases>
@@ -30,7 +30,7 @@
                 </capacities>
                 <power>6</power>
                 <cooldownTime>1</cooldownTime>
-                <linkedBodyPartsGroup>ATMB_MechanicalLeftWing</linkedBodyPartsGroup>
+                <linkedBodyPartsGroup>ATB_MechanicalLeftWing</linkedBodyPartsGroup>
             </li>
             <li>
                 <label>right wing</label>
@@ -39,12 +39,12 @@
                 </capacities>
                 <power>6</power>
                 <cooldownTime>1</cooldownTime>
-                <linkedBodyPartsGroup>ATMB_MechanicalRightWing</linkedBodyPartsGroup>
+                <linkedBodyPartsGroup>ATB_MechanicalRightWing</linkedBodyPartsGroup>
             </li>
         </tools>
         <race>
             <intelligence>ToolUser</intelligence>
-			<body>ATMB_MechAirborne</body>
+			<body>ATB_MechAirborne</body>
             <baseBodySize>0.2</baseBodySize>
 			<baseHealthScale>0.4</baseHealthScale>
 			<foodType>None</foodType>
@@ -81,9 +81,9 @@
     </ThingDef>
 
     <PawnKindDef ParentName="ATR_MechanicalAnimalKindBase">
-        <defName>ATMB_MicroScyther</defName>
+        <defName>ATB_MicroScyther</defName>
         <label>Microscyther</label>
-        <race>ATMB_MicroScyther</race>
+        <race>ATB_MicroScyther</race>
         <combatPower>10</combatPower>
         <canArriveManhunter>false</canArriveManhunter>
         <ecoSystemWeight>9999</ecoSystemWeight>

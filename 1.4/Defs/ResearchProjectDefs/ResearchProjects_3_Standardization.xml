@@ -2,18 +2,18 @@
 <Defs>
 
 	<ResearchProjectDef>
-		<defName>ATMB_MilitaryBiomimetics</defName>
+		<defName>ATB_MilitaryBiomimetics</defName>
 		<label>Military biomimetics</label>
 		<tab>ATR_MechResearch</tab>
 		<description>Iterating upon utility biomimetics, this research delves into military applications. Significantly more complicated than copying mere domesticated farm animals, militarization can lead to miniature swarm drones, mechanical hounds, or more experimental adaptations.</description>
 		<baseCost>1400</baseCost>
 		<techLevel>Spacer</techLevel>
 		<prerequisites>
-            <li>ATMB_UtilityBiomimetics</li>
+            <li>ATB_UtilityBiomimetics</li>
             <li>ATR_MechanicalStandardization</li>
         </prerequisites>
 		<researchViewX>3</researchViewX>
-		<researchViewY>3.2</researchViewY>
+		<researchViewY>2.5</researchViewY>
 	</ResearchProjectDef>
 
 </Defs>

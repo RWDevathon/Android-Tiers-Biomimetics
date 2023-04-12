@@ -17,7 +17,7 @@
         <match Class="PatchOperationAdd">
             <xpath>Defs/FactionDef[defName="ATR_AndroidUnion"]/pawnGroupMakers/li/carriers</xpath>
             <value>
-                <ATMB_DroneTORT>6</ATMB_DroneTORT>
+                <ATB_DroneTORT>6</ATB_DroneTORT>
             </value>
         </match>
 	</Operation>

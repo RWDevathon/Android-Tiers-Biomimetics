@@ -17,7 +17,7 @@
 				<countRange>2~5</countRange>
 			</li>
             <li Class="StockGenerator_SingleDef">
-                <thingDef>ATMB_MicroscytherShell</thingDef>
+                <thingDef>ATB_MicroscytherShell</thingDef>
                 <countRange>-5~10</countRange>
             </li>
         </value>

@@ -2,7 +2,7 @@
 <Defs>
 
 	<ResearchProjectDef>
-		<defName>ATMB_UtilityBiomimetics</defName>
+		<defName>ATB_UtilityBiomimetics</defName>
 		<label>Utility biomimetics</label>
 		<tab>ATR_MechResearch</tab>
 		<description>Biomimetics is the theoretical field of creating mechanical versions of living things. The earliest successful mechanical prototypes always iterate upon biological successes. Research in this field could recreate many of humanity's selective breeding successes in a robotic form.</description>
@@ -12,7 +12,7 @@
 			<li>ATR_MechanicalInsight</li>
 		</prerequisites>
 		<researchViewX>1</researchViewX>
-		<researchViewY>3.2</researchViewY>
+		<researchViewY>2.5</researchViewY>
 	</ResearchProjectDef>
 
 </Defs>

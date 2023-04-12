@@ -2,7 +2,7 @@
 <Defs>
 
     <BodyDef>
-        <defName>ATMB_MechAirborne</defName>
+        <defName>ATB_MechAirborne</defName>
         <label>Aerial Drone</label>
         <corePart>
             <def>ATR_MechanicalThorax</def>
@@ -100,7 +100,7 @@
                     <coverage>0.17</coverage>
                     <groups>
                         <li>Arms</li>
-                        <li>ATMB_MechanicalLeftWing</li>
+                        <li>ATB_MechanicalLeftWing</li>
                     </groups>
                 </li>
                 <li>
@@ -109,7 +109,7 @@
                     <coverage>0.17</coverage>
                     <groups>
                         <li>Arms</li>
-                        <li>ATMB_MechanicalRightWing</li>
+                        <li>ATB_MechanicalRightWing</li>
                     </groups>
                 </li>
                 <li>

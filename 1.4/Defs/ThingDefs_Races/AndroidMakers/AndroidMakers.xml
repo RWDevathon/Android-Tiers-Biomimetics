@@ -2,7 +2,7 @@
 <Defs>
 
     <ThingDef ParentName="ATR_MakeableGeneratorBase">
-        <defName>ATMB_WatchdogGenerator</defName>
+        <defName>ATB_WatchdogGenerator</defName>
         <label>Watchdog Unit</label>
         <description>An uninitialized mechanical wolf-analogue designed for guard, assault, search and destroy, and support duties. Watchdogs are intelligent enough and capable of charging.</description>
         <graphicData>
@@ -13,7 +13,7 @@
             <skillRequirements>
                 <Crafting>12</Crafting>
             </skillRequirements>
-            <researchPrerequisite>ATMB_MilitaryBiomimetics</researchPrerequisite>
+            <researchPrerequisite>ATB_MilitaryBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
             <Steel>40</Steel>
@@ -23,13 +23,13 @@
         </costList>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawner">
-                <pawnKind>ATMB_DroneWatchdog</pawnKind>
+                <pawnKind>ATB_DroneWatchdog</pawnKind>
             </li>
         </comps>
     </ThingDef>
 
     <ThingDef ParentName="ATR_MakeableGeneratorBase">
-        <defName>ATMB_TORTGenerator</defName>
+        <defName>ATB_TORTGenerator</defName>
         <label>TORT Unit</label>
         <description>An uninitialized mechanical tortoise-analogue designed for both short and long range transportation services. TORT units are intelligent enough and capable of charging.</description>
         <graphicData>
@@ -37,7 +37,7 @@
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <recipeMaker>
-            <researchPrerequisite>ATMB_UtilityBiomimetics</researchPrerequisite>
+            <researchPrerequisite>ATB_UtilityBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
             <Steel>80</Steel>
@@ -46,13 +46,13 @@
         </costList>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawner">
-                <pawnKind>ATMB_DroneTORT</pawnKind>
+                <pawnKind>ATB_DroneTORT</pawnKind>
             </li>
         </comps>
     </ThingDef>
 
     <ThingDef ParentName="ATR_MakeableGeneratorBase">
-        <defName>ATMB_MineralUnitGenerator</defName>
+        <defName>ATB_MineralUnitGenerator</defName>
         <label>Mineral Unit</label>
         <description>An uninitialized mechanical sheep-analogue designed for producing steel. This unit necessitates organic matter consumption, and can not charge.</description>
         <graphicData>
@@ -60,7 +60,7 @@
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <recipeMaker>
-            <researchPrerequisite>ATMB_UtilityBiomimetics</researchPrerequisite>
+            <researchPrerequisite>ATB_UtilityBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
             <Steel>100</Steel>
@@ -69,13 +69,13 @@
         </costList>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawner">
-                <pawnKind>ATMB_DroneMineralUnit</pawnKind>
+                <pawnKind>ATB_DroneMineralUnit</pawnKind>
             </li>
         </comps>
     </ThingDef>
 
     <ThingDef ParentName="ATR_MakeableGeneratorBase">
-        <defName>ATMB_NutritionUnitGenerator</defName>
+        <defName>ATB_NutritionUnitGenerator</defName>
         <label>Nutrition Unit</label>
         <description>An uninitialized mechanical cow-analogue designed for producing high-grade high-efficiency milk. This unit necessitates organic matter consumption, and can not charge.</description>
         <graphicData>
@@ -83,7 +83,7 @@
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <recipeMaker>
-            <researchPrerequisite>ATMB_UtilityBiomimetics</researchPrerequisite>
+            <researchPrerequisite>ATB_UtilityBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
             <Steel>80</Steel>
@@ -91,13 +91,13 @@
         </costList>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawner">
-                <pawnKind>ATMB_DroneNutritionUnit</pawnKind>
+                <pawnKind>ATB_DroneNutritionUnit</pawnKind>
             </li>
         </comps>
     </ThingDef>
 
     <ThingDef ParentName="ATR_MakeableGeneratorBase">
-        <defName>ATMB_ChemUnitGenerator</defName>
+        <defName>ATB_ChemUnitGenerator</defName>
         <label>Chemical processing unit</label>
         <description>An uninitialized mechanical hen-analogue designed for producing neutroamine or chemfuel precursors. This unit necessitates organic matter consumption, and can not charge.</description>
         <graphicData>
@@ -105,7 +105,7 @@
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <recipeMaker>
-            <researchPrerequisite>ATMB_UtilityBiomimetics</researchPrerequisite>
+            <researchPrerequisite>ATB_UtilityBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
             <Steel>40</Steel>
@@ -113,7 +113,7 @@
         </costList>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawner">
-                <pawnKind>ATMB_DroneChemUnit</pawnKind>
+                <pawnKind>ATB_DroneChemUnit</pawnKind>
             </li>
         </comps>
     </ThingDef>
@@ -121,12 +121,12 @@
     <!-- Non-Manufacturable, only generated via Microscyther shell, so inherit only from the Generator Base. -->
 
     <ThingDef ParentName="ATR_GeneratorBase">
-        <defName>ATMB_MicroScytherGenerator</defName>
+        <defName>ATB_MicroScytherGenerator</defName>
         <label>MicroScyther</label>
         <description>An uninitialized mechanical drone designed for swarming targets. They have a severely limited battery lifespan, yield nothing when destroyed, and attack anything that isn't a microscyther.</description>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawnerPermanentHostile">
-                <pawnKind>ATMB_MicroScyther</pawnKind>
+                <pawnKind>ATB_MicroScyther</pawnKind>
                 <hediffDefToSpawnWith>ATR_RemainingCharge</hediffDefToSpawnWith>
                 <hediffSeverity>0.25</hediffSeverity>
             </li>

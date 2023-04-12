@@ -2,7 +2,7 @@
 <Defs>
 
 	<BodyDef>
-		<defName>ATMB_MechQuadrupedal</defName>
+		<defName>ATB_MechQuadrupedal</defName>
 		<label>Quadrupedal drone</label>
 		<corePart>
             <def>ATR_MechanicalThorax</def>

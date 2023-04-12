@@ -2,7 +2,7 @@
 <Defs>
 
 	<ThingDef ParentName="ATR_MechanicalAnimalThingBase">
-		<defName>ATMB_DroneChemUnit</defName>
+		<defName>ATB_DroneChemUnit</defName>
 		<label>Chemical processing unit</label>
 		<description>A highly specialized intricate autonomous drone capable of identifying, seeking, and absorbing biological matter for processing into a synthetic chemical precursor to neutroamine or chemfuel. The process's order of operations lent itself well to shaping a machine in the form of a small bird, with the product outputted as a self-stored egg-like capsule. The wings are purely cosmetic.</description>
 		<statBases>
@@ -12,8 +12,8 @@
 		<comps>
 			<li Class="CompProperties_EggLayer">
 
-				<eggUnfertilizedDef>ATMB_ChemCapsule</eggUnfertilizedDef>
-				<eggFertilizedDef>ATMB_ChemCapsule</eggFertilizedDef>
+				<eggUnfertilizedDef>ATB_ChemCapsule</eggUnfertilizedDef>
+				<eggFertilizedDef>ATB_ChemCapsule</eggFertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>
 				<eggLayIntervalDays>1</eggLayIntervalDays>
 				<eggCountRange>1</eggCountRange>
@@ -57,9 +57,9 @@
 	</ThingDef>
 
 	<PawnKindDef ParentName="ATR_MechanicalAnimalKindBase">
-		<defName>ATMB_DroneChemUnit</defName>
+		<defName>ATB_DroneChemUnit</defName>
 		<label>Chemical processing unit</label>
-		<race>ATMB_DroneChemUnit</race>
+		<race>ATB_DroneChemUnit</race>
         <combatPower>10</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
 		<ecoSystemWeight>0.3</ecoSystemWeight>

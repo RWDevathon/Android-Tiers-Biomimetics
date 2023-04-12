@@ -2,7 +2,7 @@
 <Defs>
 
 	<ThingDef ParentName="ATR_MechanicalAnimalThingBase">
-		<defName>ATMB_DroneWatchdog</defName>
+		<defName>ATB_DroneWatchdog</defName>
 		<label>Watchdog unit</label>
 		<description>These drone units are unique in many ways - programmable for a wide range of tasks both military and civilian in nature, heavily armed and yet disarmingly affectionate, charge-capable and command-responsive - and are thus a well known line of mechanical biomimetics. Many serve as companions, as fearsome scouts, as mobile surveillance, or even as sappers.\n\nTheir lethality and violent capabilities have certainly earned them a reputation - a reputation they almost seem keen to keep.</description>
 		<statBases>
@@ -76,7 +76,7 @@
 			</li>
 		</tools>
 		<race>
-			<body>ATMB_MechQuadrupedal</body>
+			<body>ATB_MechQuadrupedal</body>
 			<packAnimal>true</packAnimal>
 			<predator>true</predator>
 			<baseBodySize>1.0</baseBodySize>
@@ -106,9 +106,9 @@
 	</ThingDef>
 
 	<PawnKindDef ParentName="ATR_MechanicalAnimalKindBase">
-		<defName>ATMB_DroneWatchdog</defName>
+		<defName>ATB_DroneWatchdog</defName>
 		<label>Watchdog unit</label>
-		<race>ATMB_DroneWatchdog</race>
+		<race>ATB_DroneWatchdog</race>
         <combatPower>50</combatPower>
 		<canArriveManhunter>false</canArriveManhunter>
 		<ecoSystemWeight>0.7</ecoSystemWeight>

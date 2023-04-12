@@ -2,13 +2,13 @@
 <Defs>
 
     <BodyPartGroupDef>
-        <defName>ATMB_MechanicalLeftWing</defName>
+        <defName>ATB_MechanicalLeftWing</defName>
         <label>left wing</label>
         <listOrder>101</listOrder>
     </BodyPartGroupDef>
 
     <BodyPartGroupDef>
-        <defName>ATMB_MechanicalRightWing</defName>
+        <defName>ATB_MechanicalRightWing</defName>
         <label>right wing</label>
         <listOrder>102</listOrder>
     </BodyPartGroupDef>

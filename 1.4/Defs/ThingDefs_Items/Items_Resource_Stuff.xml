@@ -2,7 +2,7 @@
 <Defs>
 
 	<RecipeDef>
-		<defName>ATMB_Make_ChemfuelFromChemCapsule</defName>
+		<defName>ATB_Make_ChemfuelFromChemCapsule</defName>
 		<label>synthesize chemfuel from chemical capsules</label>
 		<description>Make a batch of chemfuel by refining the raw resources within chemical capsules.</description>
 		<jobString>Refining chemfuel from capsules.</jobString>
@@ -14,7 +14,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>ATMB_ChemCapsule</li>
+						<li>ATB_ChemCapsule</li>
 					</thingDefs>
 				</filter>
 				<count>4</count>
@@ -22,7 +22,7 @@
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-				<li>ATMB_ChemCapsule</li>
+				<li>ATB_ChemCapsule</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -35,7 +35,7 @@
 	</RecipeDef>
 
 	<RecipeDef>
-		<defName>ATMB_Make_NeutroamineFromChemCapsule</defName>
+		<defName>ATB_Make_NeutroamineFromChemCapsule</defName>
 		<label>synthesize neutroamine from chemical capsules</label>
 		<description>Make a batch of neutroamine by refining the raw resources within chemical capsules.</description>
 		<jobString>Refining neutroamine from capsules.</jobString>
@@ -47,7 +47,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>ATMB_ChemCapsule</li>
+						<li>ATB_ChemCapsule</li>
 					</thingDefs>
 				</filter>
 				<count>4</count>
@@ -55,7 +55,7 @@
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-				<li>ATMB_ChemCapsule</li>
+				<li>ATB_ChemCapsule</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -68,7 +68,7 @@
 	</RecipeDef>
 
     <ThingDef ParentName="ResourceBase">
-        <defName>ATMB_ChemCapsule</defName>
+        <defName>ATB_ChemCapsule</defName>
         <label>Chemical Capsule</label>
         <description>A small, dense capsule full of synthetic precursor chemicals ready for processing into neutroamine or chemfuel.</description>
         <graphicData>
@@ -93,7 +93,7 @@
     </ThingDef>
 
     <ThingDef ParentName="OrganicProductBase">
-        <defName>ATMB_NutrientSolution</defName>
+        <defName>ATB_NutrientSolution</defName>
         <label>nutrient solution</label>
         <description>A thick slurry of high protein and high calorie substances which has a vaguely honey-like consistency, albeit with a blander taste that is neither offensive nor sweet. This solution is unstabilized, and must be treated with chemical capsules to achieve its notoriously non-spoiling state.</description>
         <graphicData>
@@ -126,7 +126,7 @@
     </ThingDef>
 
     <ThingDef ParentName="OrganicProductBase">
-        <defName>ATMB_NutritionBlock</defName>
+        <defName>ATB_NutritionBlock</defName>
         <label>nutrition block</label>
         <description>A dense, nutrition rich block created by stabilizing nutrient solution with chemical capsules. Akin to a crumbly form of cheese, this substance will never expire and is full of essential nutrients for sustenance.</description>
         <graphicData>
@@ -153,7 +153,7 @@
     </ThingDef>
 
 	<RecipeDef>
-		<defName>ATMB_Make_NutritionBlockFromSolutionAndCapsules</defName>
+		<defName>ATB_Make_NutritionBlockFromSolutionAndCapsules</defName>
 		<label>stabilize nutrient solution with chemical capsules</label>
 		<description>Make a batch of stabilized nutrition blocks by refining nutrient solution with chemical capsules. This is a time-intensive task.</description>
 		<jobString>Stabilizing nutrient solution with capsules.</jobString>
@@ -165,7 +165,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>ATMB_NutrientSolution</li>
+						<li>ATB_NutrientSolution</li>
 					</thingDefs>
 				</filter>
 				<count>7</count>
@@ -173,7 +173,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>ATMB_ChemCapsule</li>
+						<li>ATB_ChemCapsule</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -181,12 +181,12 @@
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-				<li>ATMB_ChemCapsule</li>
-                <li>ATMB_NutrientSolution</li>
+				<li>ATB_ChemCapsule</li>
+                <li>ATB_NutrientSolution</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
-			<ATMB_NutritionBlock>7</ATMB_NutritionBlock>
+			<ATB_NutritionBlock>7</ATB_NutritionBlock>
 		</products>
 	    <recipeUsers>
             <li>BiofuelRefinery</li>

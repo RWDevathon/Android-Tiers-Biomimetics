@@ -5,11 +5,11 @@
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/RecipeDef[@Name = "MHC_surgeryMechanicalBase"]/recipeUsers</xpath>
         <value>
-            <li>ATMB_DroneChemUnit</li>
-            <li>ATMB_DroneMineralUnit</li>
-            <li>ATMB_DroneNutritionUnit</li>
-            <li>ATMB_DroneTORT</li>
-            <li>ATMB_DroneWatchdog</li>
+            <li>ATB_DroneChemUnit</li>
+            <li>ATB_DroneMineralUnit</li>
+            <li>ATB_DroneNutritionUnit</li>
+            <li>ATB_DroneTORT</li>
+            <li>ATB_DroneWatchdog</li>
         </value>
     </Operation>
 
@@ -17,11 +17,11 @@
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/RecipeDef[@Name = "ATR_surgeryMechanicalBase"]/recipeUsers</xpath>
         <value>
-            <li>ATMB_DroneChemUnit</li>
-            <li>ATMB_DroneMineralUnit</li>
-            <li>ATMB_DroneNutritionUnit</li>
-            <li>ATMB_DroneTORT</li>
-            <li>ATMB_DroneWatchdog</li>
+            <li>ATB_DroneChemUnit</li>
+            <li>ATB_DroneMineralUnit</li>
+            <li>ATB_DroneNutritionUnit</li>
+            <li>ATB_DroneTORT</li>
+            <li>ATB_DroneWatchdog</li>
         </value>
     </Operation>
 

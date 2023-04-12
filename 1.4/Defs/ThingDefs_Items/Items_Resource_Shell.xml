@@ -2,7 +2,7 @@
 <Defs>
 
     <ThingDef ParentName="MakeableShellBase">
-        <defName>ATMB_MicroscytherShell</defName>
+        <defName>ATB_MicroscytherShell</defName>
         <label>Swarm shell</label>
         <description>An artillery shell containing several pre-programmed microscythers that will be unleashed and assault all nearby targets upon impact.</description>
         <graphicData>
@@ -21,7 +21,7 @@
                 <explosiveDamageType>Smoke</explosiveDamageType>
                 <explosiveExpandPerStackcount>0.4</explosiveExpandPerStackcount>
                 <startWickHitPointsPercent>0.333</startWickHitPointsPercent>
-                <postExplosionSpawnThingDef>ATMB_MicroScytherGenerator</postExplosionSpawnThingDef>
+                <postExplosionSpawnThingDef>ATB_MicroScytherGenerator</postExplosionSpawnThingDef>
                 <postExplosionSpawnChance>1</postExplosionSpawnChance>
                 <postExplosionSpawnThingCount>1</postExplosionSpawnThingCount>
                 <applyDamageToExplosionCellsNeighbors>true</applyDamageToExplosionCellsNeighbors>
@@ -32,9 +32,9 @@
                 </wickTicks>
             </li>
         </comps>
-        <projectileWhenLoaded>ATMB_MicroscytherShell_round</projectileWhenLoaded>
+        <projectileWhenLoaded>ATB_MicroscytherShell_round</projectileWhenLoaded>
         <recipeMaker>
-            <researchPrerequisite>ATMB_MilitaryBiomimetics</researchPrerequisite>
+            <researchPrerequisite>ATB_MilitaryBiomimetics</researchPrerequisite>
             <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
             <effectWorking>Repair</effectWorking>
             <soundWorking>Recipe_Machining</soundWorking>
@@ -51,7 +51,7 @@
     </ThingDef>
 
     <ThingDef ParentName="BaseBullet">
-        <defName>ATMB_MicroscytherShell_round</defName>
+        <defName>ATB_MicroscytherShell_round</defName>
         <label>Swarm shell</label>
         <graphicData>
             <texPath>Things/Projectile/ShellEMP</texPath>
@@ -68,7 +68,7 @@
             <soundExplode>Explosion_EMP</soundExplode>
             <soundImpactAnticipate>MortarRound_PreImpact</soundImpactAnticipate>
             <soundAmbient>MortarRound_Ambient</soundAmbient>
-            <postExplosionSpawnThingDef>ATMB_MicroScytherGenerator</postExplosionSpawnThingDef>
+            <postExplosionSpawnThingDef>ATB_MicroScytherGenerator</postExplosionSpawnThingDef>
             <postExplosionSpawnChance>1</postExplosionSpawnChance>
             <postExplosionSpawnThingCount>1</postExplosionSpawnThingCount>
             <applyDamageToExplosionCellsNeighbors>true</applyDamageToExplosionCellsNeighbors>
