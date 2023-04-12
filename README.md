@@ -7,9 +7,7 @@ Android Tiers Biomimetics is an extension sub-mod of Android Tiers Reforged
 
 ## Features
 *
-
-## Objectives Remaining
-*
+* New security options such as launching or laying traps of swarms of microscythers for unwary raiders.
 
 ## Links
 [Discord] (https://discord.gg/udNCpbkABT)

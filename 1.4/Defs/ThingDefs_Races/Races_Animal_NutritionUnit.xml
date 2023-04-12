@@ -2,7 +2,7 @@
 <Defs>
 
     <ThingDef ParentName="ATR_MechanicalAnimalThingBase">
-        <defName>ATR_DroneNutritionUnit</defName>
+        <defName>ATMB_DroneNutritionUnit</defName>
         <label>Nutrition unit</label>
         <description>A lumbering drone unit specialized in the optimization of generating nutrition from organic matter for human consumption. Unlike other mechanical drones, this unit is quite rare amongst android societies given its intended purpose. With an almost disturbingly long shelf-life and extremely high nutritive content, acquisition of units like this have led to population booms on many worlds - and curiously enough by extension, many wars.</description>
         <statBases>
@@ -11,7 +11,7 @@
         </statBases>
         <comps>
             <li Class="CompProperties_Milkable">
-                <milkDef>ATR_NutrientSolution</milkDef>
+                <milkDef>ATMB_NutrientSolution</milkDef>
                 <milkIntervalDays>1</milkIntervalDays>
                 <milkAmount>14</milkAmount>
                 <milkFemaleOnly>false</milkFemaleOnly>
@@ -29,7 +29,7 @@
             </li>
         </tools>
         <race>
-            <body>ATR_MechQuadrupedal</body>
+            <body>ATMB_MechQuadrupedal</body>
             <packAnimal>true</packAnimal>
             <baseBodySize>2.4</baseBodySize>
             <baseHealthScale>1</baseHealthScale>
@@ -55,9 +55,9 @@
     </ThingDef>
 
     <PawnKindDef ParentName="ATR_MechanicalAnimalKindBase">
-        <defName>ATR_DroneNutritionUnit</defName>
+        <defName>ATMB_DroneNutritionUnit</defName>
         <label>Nutrition unit</label>
-        <race>ATR_DroneNutritionUnit</race>
+        <race>ATMB_DroneNutritionUnit</race>
         <combatPower>20</combatPower>
         <canArriveManhunter>false</canArriveManhunter>
 		<ecoSystemWeight>0.5</ecoSystemWeight>

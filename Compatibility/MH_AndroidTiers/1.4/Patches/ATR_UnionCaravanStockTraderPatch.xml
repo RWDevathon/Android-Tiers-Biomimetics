@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Add mechanical animals to the Android Union caravans. -->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/TraderKindDef[defName="ATR_Caravan_AndroidCollective_BulkGoods"]/stockGenerators</xpath>
+        <value>
+            <li Class="StockGenerator_Animals">
+                <maxWildness>0.50</maxWildness>
+                <tradeTagsSell>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsSell>
+                <tradeTagsBuy>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsBuy>
+                <kindCountRange>
+                    <min>0</min>
+                    <max>2</max>
+                </kindCountRange>
+                <countRange>
+                    <min>1</min>
+                    <max>4</max>
+                </countRange>
+            </li>
+        </value>
+	</Operation>
+
+	<!-- Add mechanical animals to the Android Union caravans. -->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/TraderKindDef[defName="Caravan_AndroidCollective_AndroidMerchant"]/stockGenerators</xpath>
+        <value>
+            <li Class="StockGenerator_Animals">
+                <tradeTagsSell>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsSell>
+                <tradeTagsBuy>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsBuy>
+                <kindCountRange>
+                    <min>1</min>
+                    <max>2</max>
+                </kindCountRange>
+                <countRange>
+                    <min>1</min>
+                    <max>5</max>
+                </countRange>
+            </li>
+        </value>
+	</Operation>
+
+	<!-- Add mechanical animals to the Android Union caravans. -->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/TraderKindDef[defName="Caravan_AndroidCollective_HighTech"]/stockGenerators</xpath>
+        <value>
+            <li Class="StockGenerator_Animals">
+                <tradeTagsSell>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsSell>
+                <tradeTagsBuy>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsBuy>
+                <kindCountRange>
+                    <min>1</min>
+                    <max>4</max>
+                </kindCountRange>
+                <countRange>
+                    <min>1</min>
+                    <max>5</max>
+                </countRange>
+            </li>
+        </value>
+	</Operation>
+
+</Patch>

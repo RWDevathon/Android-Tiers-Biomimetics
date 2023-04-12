@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<!-- Add mechanical animals to the Android Union traders. -->
+	<Operation Class="PatchOperationAdd">
+        <xpath>Defs/TraderKindDef[defName="ATR_Base_AndroidCollective_Standard"]/stockGenerators</xpath>
+        <value>
+            <li Class="StockGenerator_Animals">
+                <tradeTagsSell>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsSell>
+                <tradeTagsBuy>
+                    <li>ATR_MechanicalAnimal</li>
+                </tradeTagsBuy>
+                <kindCountRange>
+                    <min>2</min>
+                    <max>4</max>
+                </kindCountRange>
+                <countRange>
+                    <min>3</min>
+                    <max>8</max>
+                </countRange>
+            </li>
+        </value>
+	</Operation>
+
+</Patch>
