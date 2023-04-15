@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_MechBipedal.label>Bipedal drone</ATB_MechBipedal.label>
-  <ATB_MechBipedal.corePart.parts.3.customLabel>left heatsink</ATB_MechBipedal.corePart.parts.3.customLabel>
-  <ATB_MechBipedal.corePart.parts.4.customLabel>right heatsink</ATB_MechBipedal.corePart.parts.4.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>left visual sensor</ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>right visual sensor</ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>left audio sensor</ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>right audio sensor</ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>
-  <ATB_MechBipedal.corePart.parts.8.customLabel>left leg</ATB_MechBipedal.corePart.parts.8.customLabel>
-  <ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>left foot</ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>
-  <ATB_MechBipedal.corePart.parts.9.customLabel>right leg</ATB_MechBipedal.corePart.parts.9.customLabel>
-  <ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>right foot</ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>
+  <ATB_MechBipedal.label>Двуногий дрон</ATB_MechBipedal.label>
+  <ATB_MechBipedal.corePart.parts.3.customLabel>левый радиатор</ATB_MechBipedal.corePart.parts.3.customLabel>
+  <ATB_MechBipedal.corePart.parts.4.customLabel>правый радиатор</ATB_MechBipedal.corePart.parts.4.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>левый визуальный сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>правый визуальный сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>левый звуковой сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>правый звуковой сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>
+  <ATB_MechBipedal.corePart.parts.8.customLabel>левая нога</ATB_MechBipedal.corePart.parts.8.customLabel>
+  <ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>левая ступня</ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>
+  <ATB_MechBipedal.corePart.parts.9.customLabel>правая нога</ATB_MechBipedal.corePart.parts.9.customLabel>
+  <ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>правая ступня</ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>
 
 
 </LanguageData>

@@ -6,9 +6,9 @@
 
   <!-- Recipe Users: TableMachining, ATR_MechanicalAssemblyPod -->
 
-  <Make_ATB_MicroscytherShell.label>make Swarm shell</Make_ATB_MicroscytherShell.label>
-  <Make_ATB_MicroscytherShell.description>Make Swarm shell.</Make_ATB_MicroscytherShell.description>
-  <Make_ATB_MicroscytherShell.jobString>Making Swarm shell.</Make_ATB_MicroscytherShell.jobString>
+  <Make_ATB_MicroscytherShell.label>изготовить роевую оболочку</Make_ATB_MicroscytherShell.label>
+  <Make_ATB_MicroscytherShell.description>Изготовить роевую оболочку.</Make_ATB_MicroscytherShell.description>
+  <Make_ATB_MicroscytherShell.jobString>Изготавливает роевую оболочку.</Make_ATB_MicroscytherShell.jobString>
 
 
 </LanguageData>

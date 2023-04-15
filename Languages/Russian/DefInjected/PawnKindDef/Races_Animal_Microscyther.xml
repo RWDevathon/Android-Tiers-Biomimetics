@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_MicroScyther.label>Microscyther</ATB_MicroScyther.label>
-  <ATB_MicroScyther.labelPlural>Microscythers</ATB_MicroScyther.labelPlural>
-  <ATB_MicroScyther.labelMale>male Microscyther</ATB_MicroScyther.labelMale>
-  <ATB_MicroScyther.labelMalePlural>male Microscythers</ATB_MicroScyther.labelMalePlural>
-  <ATB_MicroScyther.labelFemale>female Microscyther</ATB_MicroScyther.labelFemale>
-  <ATB_MicroScyther.labelFemalePlural>female Microscythers</ATB_MicroScyther.labelFemalePlural>
+  <ATB_MicroScyther.label>Микро Скитер</ATB_MicroScyther.label>
+  <ATB_MicroScyther.labelPlural>Микро Скитеры</ATB_MicroScyther.labelPlural>
+  <ATB_MicroScyther.labelMale>мужчина Микро Скитер</ATB_MicroScyther.labelMale>
+  <ATB_MicroScyther.labelMalePlural>мужчина Микро Скитеры</ATB_MicroScyther.labelMalePlural>
+  <ATB_MicroScyther.labelFemale>женщина Микро Скитер</ATB_MicroScyther.labelFemale>
+  <ATB_MicroScyther.labelFemalePlural>женщина Микро Скитеры</ATB_MicroScyther.labelFemalePlural>
 
 
 </LanguageData>

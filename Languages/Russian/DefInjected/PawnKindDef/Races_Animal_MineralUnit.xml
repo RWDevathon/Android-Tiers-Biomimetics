@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_DroneMineralUnit.label>Mineral unit</ATB_DroneMineralUnit.label>
-  <ATB_DroneMineralUnit.labelPlural>Mineral units</ATB_DroneMineralUnit.labelPlural>
-  <ATB_DroneMineralUnit.labelMale>male Mineral unit</ATB_DroneMineralUnit.labelMale>
-  <ATB_DroneMineralUnit.labelMalePlural>male Mineral units</ATB_DroneMineralUnit.labelMalePlural>
-  <ATB_DroneMineralUnit.labelFemale>female Mineral unit</ATB_DroneMineralUnit.labelFemale>
-  <ATB_DroneMineralUnit.labelFemalePlural>female Mineral units</ATB_DroneMineralUnit.labelFemalePlural>
+  <ATB_DroneMineralUnit.label>Минеральный юнит</ATB_DroneMineralUnit.label>
+  <ATB_DroneMineralUnit.labelPlural>Минеральные юниты</ATB_DroneMineralUnit.labelPlural>
+  <ATB_DroneMineralUnit.labelMale>мужчина Минеральный юнит</ATB_DroneMineralUnit.labelMale>
+  <ATB_DroneMineralUnit.labelMalePlural>мужчина Минеральные юниты</ATB_DroneMineralUnit.labelMalePlural>
+  <ATB_DroneMineralUnit.labelFemale>женщина Минеральный юнит</ATB_DroneMineralUnit.labelFemale>
+  <ATB_DroneMineralUnit.labelFemalePlural>женщина Минеральные юниты</ATB_DroneMineralUnit.labelFemalePlural>
 
 
 </LanguageData>
