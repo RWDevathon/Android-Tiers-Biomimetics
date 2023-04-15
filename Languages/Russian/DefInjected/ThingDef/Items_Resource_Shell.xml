@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_MicroscytherShell.label>Роевая оболочка</ATB_MicroscytherShell.label>
+  <ATB_MicroscytherShell.description>Артиллерийский снаряд, содержащий несколько запрограммированных микроскитеров, которые при попадании в цель высвобождаются и атакуют все ближайшие цели.</ATB_MicroscytherShell.description>
+
+  <ATB_MicroscytherShell_round.label>Роевая оболочка</ATB_MicroscytherShell_round.label>
+
+
+</LanguageData>

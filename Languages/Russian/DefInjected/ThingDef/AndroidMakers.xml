@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_WatchdogGenerator.label>Сторожевой юнит</ATB_WatchdogGenerator.label>
+  <ATB_WatchdogGenerator.description>Неинициализированный механический аналог волка, предназначенный для охраны, нападения, поиска и уничтожения, а также выполнения вспомогательных функций. Сторожевые псы достаточно умны и способны заряжаться.</ATB_WatchdogGenerator.description>
+
+  <ATB_TORTGenerator.label>TORT юнит</ATB_TORTGenerator.label>
+  <ATB_TORTGenerator.description>Неинициализированный механический аналог черепахи, предназначенный для транспортных услуг как на короткие, так и на дальние расстояния. Аппараты TORT достаточно интеллектуальны и способны заряжаться.</ATB_TORTGenerator.description>
+
+  <ATB_MineralUnitGenerator.label>Минеральный юнит</ATB_MineralUnitGenerator.label>
+  <ATB_MineralUnitGenerator.description>Неинициализированный механический аналог овцы, предназначенный для производства стали. Это устройство требует потребления органических веществ и не может заряжаться.</ATB_MineralUnitGenerator.description>
+
+  <ATB_NutritionUnitGenerator.label>Питательный юнит</ATB_NutritionUnitGenerator.label>
+  <ATB_NutritionUnitGenerator.description>Неинициализированная механическая аналог коровы, предназначенная для производства высококачественного высокопродуктивного молока. Это устройство требует потребления органических веществ и не может заряжаться.</ATB_NutritionUnitGenerator.description>
+
+  <ATB_ChemUnitGenerator.label>Юнит хим-переработки</ATB_ChemUnitGenerator.label>
+  <ATB_ChemUnitGenerator.description>Неинициализированный механический аналог курицы, предназначенный для производства нейтроамина или прекурсоров химического топлива. Это устройство требует потребления органических веществ и не может заряжаться.</ATB_ChemUnitGenerator.description>
+
+
+  <!-- Non-Manufacturable, only generated via Microscyther shell, so inherit only from the Generator Base. -->
+
+  <ATB_MicroScytherGenerator.label>Микро Скитер</ATB_MicroScytherGenerator.label>
+  <ATB_MicroScytherGenerator.description>Неинициализированный механический дрон, предназначенный для поражения толп целей. Они имеют крайне ограниченный срок службы батареи, ничего не дают при уничтожении и атакуют все, что не является микроскитером.</ATB_MicroScytherGenerator.description>
+
+
+</LanguageData>

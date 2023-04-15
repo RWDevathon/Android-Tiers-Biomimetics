@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_DroneWatchdog.label>Сторожевой юнит</ATB_DroneWatchdog.label>
+  <ATB_DroneWatchdog.description>Эти дроны уникальны во многих отношениях - программируемые на широкий спектр задач как военного, так и гражданского характера, хорошо вооруженные и в то же время обезоруживающе ласковые, способные заряжаться и реагировать на команды - и поэтому являются хорошо известной линией механических биомиметиков. Многие из них служат в качестве компаньонов, грозных разведчиков, мобильных средств наблюдения или даже саперов.\n\nСвоей смертоносностью и способностью к насилию они, безусловно, заслужили репутацию - репутацию, которую они, похоже, стремятся сохранить.</ATB_DroneWatchdog.description>
+  <ATB_DroneWatchdog.tools.0.label>левая лапа</ATB_DroneWatchdog.tools.0.label>
+  <ATB_DroneWatchdog.tools.1.label>правая лапа</ATB_DroneWatchdog.tools.1.label>
+  <ATB_DroneWatchdog.tools.3.label>голова</ATB_DroneWatchdog.tools.3.label>
+
+
+</LanguageData>
