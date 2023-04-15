@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_ChemCapsule.label>Chemical Capsule</ATB_ChemCapsule.label>
+  <ATB_ChemCapsule.description>A small, dense capsule full of synthetic precursor chemicals ready for processing into neutroamine or chemfuel.</ATB_ChemCapsule.description>
+
+  <ATB_NutrientSolution.label>nutrient solution</ATB_NutrientSolution.label>
+  <ATB_NutrientSolution.description>A thick slurry of high protein and high calorie substances which has a vaguely honey-like consistency, albeit with a blander taste that is neither offensive nor sweet. This solution is unstabilized, and must be treated with chemical capsules to achieve its notoriously non-spoiling state.</ATB_NutrientSolution.description>
+
+  <ATB_NutritionBlock.label>nutrition block</ATB_NutritionBlock.label>
+  <ATB_NutritionBlock.description>A dense, nutrition rich block created by stabilizing nutrient solution with chemical capsules. Akin to a crumbly form of cheese, this substance will never expire and is full of essential nutrients for sustenance.</ATB_NutritionBlock.description>
+
+
+</LanguageData>

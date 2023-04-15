@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_DroneMineralUnit.label>Mineral unit</ATB_DroneMineralUnit.label>
+  <ATB_DroneMineralUnit.description>These drones are ubiquitous in android societies on life-bearing worlds thanks to their specialized machinery capable of extracting minerals from organic material in order to refine and forge into steel. Their ravenous consumption of said organic matter has led to planet-wide bans on many worlds - and to many worlds being turned near lifeless by roaming android "pastoralists" who take "herds" of these creatures from planet to planet.</ATB_DroneMineralUnit.description>
+  <ATB_DroneMineralUnit.tools.0.label>head</ATB_DroneMineralUnit.tools.0.label>
+
+
+</LanguageData>

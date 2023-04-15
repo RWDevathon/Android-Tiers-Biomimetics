@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_MechAirborne.label>Aerial Drone</ATB_MechAirborne.label>
+  <ATB_MechAirborne.corePart.parts.2.customLabel>left heatsink</ATB_MechAirborne.corePart.parts.2.customLabel>
+  <ATB_MechAirborne.corePart.parts.3.customLabel>right heatsink</ATB_MechAirborne.corePart.parts.3.customLabel>
+  <ATB_MechAirborne.corePart.parts.4.parts.0.parts.1.customLabel>left visual sensor</ATB_MechAirborne.corePart.parts.4.parts.0.parts.1.customLabel>
+  <ATB_MechAirborne.corePart.parts.4.parts.0.parts.2.customLabel>right visual sensor</ATB_MechAirborne.corePart.parts.4.parts.0.parts.2.customLabel>
+  <ATB_MechAirborne.corePart.parts.5.customLabel>left wing</ATB_MechAirborne.corePart.parts.5.customLabel>
+  <ATB_MechAirborne.corePart.parts.6.customLabel>right wing</ATB_MechAirborne.corePart.parts.6.customLabel>
+
+
+</LanguageData>

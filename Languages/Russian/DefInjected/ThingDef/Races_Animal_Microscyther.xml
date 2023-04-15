@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_MicroScyther.label>Micro Scyther</ATB_MicroScyther.label>
+  <ATB_MicroScyther.description>A small flying drone with two side-mounted plasteel blades. While not particularly dangerous alone, these drones are rarely ever seen alone. Swarms can shred targets to pieces swiftly.\n\nThese drones have barebones IFF sensors, and will attack any non-microscyther.</ATB_MicroScyther.description>
+  <ATB_MicroScyther.tools.0.label>head</ATB_MicroScyther.tools.0.label>
+  <ATB_MicroScyther.tools.1.label>left wing</ATB_MicroScyther.tools.1.label>
+  <ATB_MicroScyther.tools.2.label>right wing</ATB_MicroScyther.tools.2.label>
+
+
+</LanguageData>

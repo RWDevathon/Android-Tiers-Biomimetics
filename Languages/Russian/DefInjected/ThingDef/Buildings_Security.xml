@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_TrapIED_Microscyther.label>Microscyther trap</ATB_TrapIED_Microscyther.label>
+  <ATB_TrapIED_Microscyther.description>A pair of microscyther shells with a simple pressure/contact trigger to unleash the units within. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</ATB_TrapIED_Microscyther.description>
+  <ATB_TrapIED_Microscyther_Blueprint.label>Microscyther trap (blueprint)</ATB_TrapIED_Microscyther_Blueprint.label>
+  <ATB_TrapIED_Microscyther_Blueprint_Install.label>Microscyther trap (blueprint)</ATB_TrapIED_Microscyther_Blueprint_Install.label>
+  <ATB_TrapIED_Microscyther_Frame.label>Microscyther trap (building)</ATB_TrapIED_Microscyther_Frame.label>
+  <ATB_TrapIED_Microscyther_Frame.description>A pair of microscyther shells with a simple pressure/contact trigger to unleash the units within. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</ATB_TrapIED_Microscyther_Frame.description>
+
+
+</LanguageData>

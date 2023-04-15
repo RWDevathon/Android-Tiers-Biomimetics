@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_DroneChemUnit.label>Chemical processing unit</ATB_DroneChemUnit.label>
+  <ATB_DroneChemUnit.description>A highly specialized intricate autonomous drone capable of identifying, seeking, and absorbing biological matter for processing into a synthetic chemical precursor to neutroamine or chemfuel. The process's order of operations lent itself well to shaping a machine in the form of a small bird, with the product outputted as a self-stored egg-like capsule. The wings are purely cosmetic.</ATB_DroneChemUnit.description>
+  <ATB_DroneChemUnit.tools.0.label>head</ATB_DroneChemUnit.tools.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_MechQuadrupedal.label>Quadrupedal drone</ATB_MechQuadrupedal.label>
+  <ATB_MechQuadrupedal.corePart.parts.4.customLabel>left heatsink</ATB_MechQuadrupedal.corePart.parts.4.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.5.customLabel>right heatsink</ATB_MechQuadrupedal.corePart.parts.5.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>left visual sensor</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>right visual sensor</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>left audio sensor</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>right audio sensor</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.9.customLabel>forward left leg</ATB_MechQuadrupedal.corePart.parts.9.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.9.parts.0.customLabel>forward left paw</ATB_MechQuadrupedal.corePart.parts.9.parts.0.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.10.customLabel>forward right leg</ATB_MechQuadrupedal.corePart.parts.10.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.10.parts.0.customLabel>forward right paw</ATB_MechQuadrupedal.corePart.parts.10.parts.0.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.11.customLabel>rear left leg</ATB_MechQuadrupedal.corePart.parts.11.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.11.parts.0.customLabel>rear left paw</ATB_MechQuadrupedal.corePart.parts.11.parts.0.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.12.customLabel>rear right leg</ATB_MechQuadrupedal.corePart.parts.12.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.12.parts.0.customLabel>rear right paw</ATB_MechQuadrupedal.corePart.parts.12.parts.0.customLabel>
+
+
+</LanguageData>

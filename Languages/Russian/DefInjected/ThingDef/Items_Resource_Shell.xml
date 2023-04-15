@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_MicroscytherShell.label>Swarm shell</ATB_MicroscytherShell.label>
+  <ATB_MicroscytherShell.description>An artillery shell containing several pre-programmed microscythers that will be unleashed and assault all nearby targets upon impact.</ATB_MicroscytherShell.description>
+
+  <ATB_MicroscytherShell_round.label>Swarm shell</ATB_MicroscytherShell_round.label>
+
+
+</LanguageData>

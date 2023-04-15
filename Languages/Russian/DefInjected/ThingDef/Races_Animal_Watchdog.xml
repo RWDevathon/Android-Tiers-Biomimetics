@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_DroneWatchdog.label>Watchdog unit</ATB_DroneWatchdog.label>
+  <ATB_DroneWatchdog.description>These drone units are unique in many ways - programmable for a wide range of tasks both military and civilian in nature, heavily armed and yet disarmingly affectionate, charge-capable and command-responsive - and are thus a well known line of mechanical biomimetics. Many serve as companions, as fearsome scouts, as mobile surveillance, or even as sappers.\n\nTheir lethality and violent capabilities have certainly earned them a reputation - a reputation they almost seem keen to keep.</ATB_DroneWatchdog.description>
+  <ATB_DroneWatchdog.tools.0.label>left claw</ATB_DroneWatchdog.tools.0.label>
+  <ATB_DroneWatchdog.tools.1.label>right claw</ATB_DroneWatchdog.tools.1.label>
+  <ATB_DroneWatchdog.tools.3.label>head</ATB_DroneWatchdog.tools.3.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ATB_DroneTORT.label>TORT unit</ATB_DroneTORT.label>
+  <ATB_DroneTORT.labelPlural>TORT units</ATB_DroneTORT.labelPlural>
+  <ATB_DroneTORT.labelMale>male TORT unit</ATB_DroneTORT.labelMale>
+  <ATB_DroneTORT.labelMalePlural>male TORT units</ATB_DroneTORT.labelMalePlural>
+  <ATB_DroneTORT.labelFemale>female TORT unit</ATB_DroneTORT.labelFemale>
+  <ATB_DroneTORT.labelFemalePlural>female TORT units</ATB_DroneTORT.labelFemalePlural>
+
+
+</LanguageData>
