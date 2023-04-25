@@ -32,7 +32,7 @@
 			</li>
 		</tools>
 		<race>
-			<body>ATR_MechBipedal</body>
+			<body>ATB_MechBipedal</body>
             <baseHungerRate>0.14</baseHungerRate>
 			<baseBodySize>0.3</baseBodySize>
 			<baseHealthScale>0.5</baseHealthScale>
