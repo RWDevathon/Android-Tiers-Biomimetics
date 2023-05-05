@@ -12,6 +12,7 @@
 			<ArmorRating_Sharp>0.4</ArmorRating_Sharp>
             <MHC_NutritionalIntakeEfficiency>1</MHC_NutritionalIntakeEfficiency>
             <MHC_ChargingSpeed>2</MHC_ChargingSpeed>
+            <MHC_MechanicalNeedCapacity>2</MHC_MechanicalNeedCapacity>
 		</statBases>
 		<tools>
 			<li>

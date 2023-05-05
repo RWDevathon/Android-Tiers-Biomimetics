@@ -8,6 +8,7 @@
         <statBases>
             <MoveSpeed>2.00</MoveSpeed>
             <MarketValue>600</MarketValue>
+            <MHC_MechanicalNeedCapacity>4</MHC_MechanicalNeedCapacity>
         </statBases>
         <comps>
             <li Class="CompProperties_Milkable">
