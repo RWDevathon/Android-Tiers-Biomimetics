@@ -9,9 +9,5 @@
   <ATB_Make_NeutroamineFromChemCapsule.description>Произведите партию нейтроамина путем переработки сырья в химических капсулах.</ATB_Make_NeutroamineFromChemCapsule.description>
   <ATB_Make_NeutroamineFromChemCapsule.jobString>Переработка нейтроамина из капсул.</ATB_Make_NeutroamineFromChemCapsule.jobString>
 
-  <ATB_Make_NutritionBlockFromSolutionAndCapsules.label>стабилизация питательного раствора с помощью химических капсул</ATB_Make_NutritionBlockFromSolutionAndCapsules.label>
-  <ATB_Make_NutritionBlockFromSolutionAndCapsules.description>Сделайте партию стабилизированных питательных блоков, доработав питательный раствор с помощью химических капсул. Это трудоемкая задача.</ATB_Make_NutritionBlockFromSolutionAndCapsules.description>
-  <ATB_Make_NutritionBlockFromSolutionAndCapsules.jobString>Стабилизация питательного раствора из капсул.</ATB_Make_NutritionBlockFromSolutionAndCapsules.jobString>
-
 
 </LanguageData>
