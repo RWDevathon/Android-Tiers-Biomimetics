@@ -13,7 +13,7 @@
             <ArmorRating_Heat>0.80</ArmorRating_Heat>
             <MHC_NutritionalIntakeEfficiency>1</MHC_NutritionalIntakeEfficiency>
             <MHC_ChargingSpeed>2</MHC_ChargingSpeed>
-            <MHC_MechanicalNeedCapacity>1</MHC_MechanicalNeedCapacity>
+            <MHC_MechanicalNeedCapacity>0.5</MHC_MechanicalNeedCapacity>
 		</statBases>
 		<tools>
 			<li>
