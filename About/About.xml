@@ -36,8 +36,10 @@
         <li>Killathon.MechHumanlikes.AndroidTiersCore</li>
     </loadAfter>
     <description><![CDATA[
-This dev project is an extended sub-mod of Android Tiers Reforged
+Mechanical Animals that mimic organic creatures and fulfill various utility roles in colonies.
 
-Version <color=#FFD800>0.1.0</color>.
+Far more ideas are to come!
+
+Version <color=#FFD800>1.0.0</color>.
     ]]></description>
 </ModMetaData>
