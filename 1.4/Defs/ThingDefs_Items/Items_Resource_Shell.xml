@@ -3,7 +3,7 @@
 
     <ThingDef ParentName="MakeableShellBase">
         <defName>ATB_MicroscytherShell</defName>
-        <label>Swarm shell</label>
+        <label>swarm shell</label>
         <description>An artillery shell containing several pre-programmed microscythers that will be unleashed and assault all nearby targets upon impact.</description>
         <graphicData>
             <texPath>Things/Items/Shells/Microscyther_shell</texPath>
@@ -52,7 +52,7 @@
 
     <ThingDef ParentName="BaseBullet">
         <defName>ATB_MicroscytherShell_round</defName>
-        <label>Swarm shell</label>
+        <label>swarm shell</label>
         <graphicData>
             <texPath>Things/Projectile/ShellEMP</texPath>
             <graphicClass>Graphic_Single</graphicClass>

@@ -53,6 +53,18 @@
 			<Steel>40</Steel>
 			<ComponentIndustrial>2</ComponentIndustrial>
 		</butcherProducts>
+		<modExtensions>
+            <li Class="MechHumanlikes.MHC_MechanicalPawnExtension">
+                <blacklistedNeeds>
+                    <li MayRequire="Dubwise.DubsBadHygiene">Hygiene</li>
+                    <li MayRequire="Dubwise.DubsBadHygiene">Bladder</li>
+                    <li MayRequire="Dubwise.DubsBadHygiene">DBHThirst</li>
+                </blacklistedNeeds>
+                <mechanicalNeeds>
+                    <li>MHC_Coolant</li>
+                </mechanicalNeeds>
+            </li>
+		</modExtensions>
     </ThingDef>
 
     <PawnKindDef ParentName="ATR_MechanicalAnimalKindBase">

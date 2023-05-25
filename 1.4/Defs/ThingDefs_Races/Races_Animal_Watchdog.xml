@@ -7,9 +7,9 @@
 		<description>These drone units are unique in many ways - programmable for a wide range of tasks both military and civilian in nature, heavily armed and yet disarmingly affectionate, charge-capable and command-responsive - and are thus a well known line of mechanical biomimetics. Many serve as companions, as fearsome scouts, as mobile surveillance, or even as sappers.\n\nTheir lethality and violent capabilities have certainly earned them a reputation - a reputation they almost seem keen to keep.</description>
 		<statBases>
 			<MarketValue>700</MarketValue>
-			<MoveSpeed>6.0</MoveSpeed>
+			<MoveSpeed>6.5</MoveSpeed>
 			<ArmorRating_Blunt>0.2</ArmorRating_Blunt>
-			<ArmorRating_Sharp>0.4</ArmorRating_Sharp>
+			<ArmorRating_Sharp>0.45</ArmorRating_Sharp>
             <MHC_NutritionalIntakeEfficiency>1</MHC_NutritionalIntakeEfficiency>
             <MHC_ChargingSpeed>2</MHC_ChargingSpeed>
             <MHC_MechanicalNeedCapacity>1</MHC_MechanicalNeedCapacity>
@@ -82,7 +82,7 @@
 			<predator>true</predator>
 			<baseBodySize>1.0</baseBodySize>
             <baseHungerRate>0.2</baseHungerRate>
-			<baseHealthScale>1.2</baseHealthScale>
+			<baseHealthScale>1.4</baseHealthScale>
 			<nameOnTameChance>1</nameOnTameChance>
 			<leatherDef>Leather_Patch</leatherDef>
 			<trainability>Advanced</trainability>
@@ -104,6 +104,19 @@
 			<Plasteel>10</Plasteel>
 			<ComponentIndustrial>2</ComponentIndustrial>
 		</butcherProducts>
+		<modExtensions>
+            <li Class="MechHumanlikes.MHC_MechanicalPawnExtension">
+                <blacklistedNeeds>
+                    <li MayRequire="Dubwise.DubsBadHygiene">Hygiene</li>
+                    <li MayRequire="Dubwise.DubsBadHygiene">Bladder</li>
+                    <li MayRequire="Dubwise.DubsBadHygiene">DBHThirst</li>
+                </blacklistedNeeds>
+                <mechanicalNeeds>
+                    <li>MHC_Coolant</li>
+                    <li>MHC_Lubrication</li>
+                </mechanicalNeeds>
+            </li>
+		</modExtensions>
 	</ThingDef>
 
 	<PawnKindDef ParentName="ATR_MechanicalAnimalKindBase">

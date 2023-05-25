@@ -69,7 +69,7 @@
 
     <ThingDef ParentName="ResourceBase">
         <defName>ATB_ChemCapsule</defName>
-        <label>Chemical Capsule</label>
+        <label>chemical capsule</label>
         <description>A small, dense capsule full of synthetic precursor chemicals ready for processing into neutroamine or chemfuel.</description>
         <graphicData>
             <texPath>Things/Items/AnimalProducts/ChemCapsule</texPath>

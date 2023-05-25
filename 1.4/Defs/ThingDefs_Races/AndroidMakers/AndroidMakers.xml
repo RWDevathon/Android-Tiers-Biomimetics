@@ -68,7 +68,6 @@
             <Steel>100</Steel>
             <Plasteel>20</Plasteel>
             <MHC_CoolantPack>1</MHC_CoolantPack>
-            <MHC_LubricationPack>1</MHC_LubricationPack>
             <ComponentIndustrial>8</ComponentIndustrial>
         </costList>
         <comps>
@@ -92,7 +91,6 @@
         <costList>
             <Steel>80</Steel>
             <MHC_CoolantPack>1</MHC_CoolantPack>
-            <MHC_LubricationPack>1</MHC_LubricationPack>
             <ComponentIndustrial>6</ComponentIndustrial>
         </costList>
         <comps>
