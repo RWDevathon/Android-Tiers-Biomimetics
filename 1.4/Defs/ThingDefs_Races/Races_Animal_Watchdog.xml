@@ -99,6 +99,10 @@
 			<soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
 		</race>
+        <recipes>
+            <li>MHC_CoolantInjection</li>
+            <li>MHC_LubricantInjection</li>
+        </recipes>
 		<butcherProducts>
 			<Steel>20</Steel>
 			<Plasteel>10</Plasteel>

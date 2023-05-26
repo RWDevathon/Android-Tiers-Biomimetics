@@ -55,6 +55,9 @@
                 </points>
             </ageGenerationCurve>
         </race>
+        <recipes>
+            <li>MHC_CoolantInjection</li>
+        </recipes>
 		<butcherProducts>
 			<Steel>50</Steel>
 			<Plasteel>10</Plasteel>

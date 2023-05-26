@@ -46,6 +46,9 @@
 			<soundMeleeHitBuilding>Pawn_Melee_BigBash_HitBuilding</soundMeleeHitBuilding>
 			<soundMeleeMiss>Pawn_Melee_BigBash_Miss</soundMeleeMiss>
 		</race>
+        <recipes>
+            <li>MHC_CoolantInjection</li>
+        </recipes>
 		<butcherProducts>
 			<Steel>40</Steel>
 			<Plasteel>10</Plasteel>
