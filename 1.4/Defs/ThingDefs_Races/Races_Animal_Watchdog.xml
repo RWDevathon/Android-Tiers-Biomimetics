@@ -13,6 +13,7 @@
             <MHC_NutritionalIntakeEfficiency>1</MHC_NutritionalIntakeEfficiency>
             <MHC_ChargingSpeed>2</MHC_ChargingSpeed>
             <MHC_MechanicalNeedCapacity>1</MHC_MechanicalNeedCapacity>
+            <Mass>80</Mass>
 		</statBases>
 		<tools>
 			<li>

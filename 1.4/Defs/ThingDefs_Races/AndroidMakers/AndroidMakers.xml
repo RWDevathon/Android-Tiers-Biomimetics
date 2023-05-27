@@ -16,8 +16,9 @@
             <researchPrerequisite>ATB_MilitaryBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
-            <Steel>40</Steel>
-            <Plasteel>20</Plasteel>
+            <Steel>60</Steel>
+            <Plasteel>30</Plasteel>
+            <Uranium>30</Uranium>
             <MHC_CoolantPack>1</MHC_CoolantPack>
             <MHC_LubricationPack>1</MHC_LubricationPack>
             <Uranium>10</Uranium>
@@ -42,8 +43,9 @@
             <researchPrerequisite>ATB_UtilityBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
-            <Steel>80</Steel>
+            <Steel>60</Steel>
             <Plasteel>20</Plasteel>
+            <Uranium>25</Uranium>
             <ComponentIndustrial>6</ComponentIndustrial>
         </costList>
         <comps>
@@ -65,10 +67,10 @@
             <researchPrerequisite>ATB_UtilityBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
-            <Steel>100</Steel>
-            <Plasteel>20</Plasteel>
+            <Steel>200</Steel>
+            <Plasteel>40</Plasteel>
             <MHC_CoolantPack>1</MHC_CoolantPack>
-            <ComponentIndustrial>8</ComponentIndustrial>
+            <ComponentIndustrial>16</ComponentIndustrial>
         </costList>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawner">
@@ -89,9 +91,9 @@
             <researchPrerequisite>ATB_UtilityBiomimetics</researchPrerequisite>
         </recipeMaker>
         <costList>
-            <Steel>80</Steel>
+            <Steel>200</Steel>
             <MHC_CoolantPack>1</MHC_CoolantPack>
-            <ComponentIndustrial>6</ComponentIndustrial>
+            <ComponentIndustrial>20</ComponentIndustrial>
         </costList>
         <comps>
             <li Class="ATReforged.CompProperties_PawnSpawner">

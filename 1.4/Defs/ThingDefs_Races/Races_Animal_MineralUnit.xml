@@ -24,8 +24,8 @@
         <comps>
             <li Class="CompProperties_Shearable">
                 <woolDef>Steel</woolDef>
-                <shearIntervalDays>5</shearIntervalDays>
-                <woolAmount>25</woolAmount>
+                <shearIntervalDays>10</shearIntervalDays>
+                <woolAmount>150</woolAmount>
             </li>
         </comps>
         <race>

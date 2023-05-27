@@ -14,7 +14,7 @@
             <li Class="CompProperties_Milkable">
                 <milkDef>ATB_NutrientSolution</milkDef>
                 <milkIntervalDays>1</milkIntervalDays>
-                <milkAmount>14</milkAmount>
+                <milkAmount>42</milkAmount>
                 <milkFemaleOnly>false</milkFemaleOnly>
             </li>
         </comps>

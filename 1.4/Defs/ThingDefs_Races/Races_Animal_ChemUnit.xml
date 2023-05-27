@@ -9,6 +9,7 @@
 			<MoveSpeed>4.00</MoveSpeed>
 			<MarketValue>500</MarketValue>
             <MHC_MechanicalNeedCapacity>0.5</MHC_MechanicalNeedCapacity>
+            <Mass>20</Mass>
 		</statBases>
 		<comps>
 			<li Class="CompProperties_EggLayer">
