@@ -18,10 +18,9 @@
         <costList>
             <Steel>60</Steel>
             <Plasteel>30</Plasteel>
-            <Uranium>30</Uranium>
+            <Uranium>40</Uranium>
             <MHC_CoolantPack>1</MHC_CoolantPack>
             <MHC_LubricationPack>1</MHC_LubricationPack>
-            <Uranium>10</Uranium>
             <ComponentIndustrial>6</ComponentIndustrial>
         </costList>
         <comps>
