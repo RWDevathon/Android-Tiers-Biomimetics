@@ -4,14 +4,14 @@
   <ATB_MechBipedal.label>Двуногий дрон</ATB_MechBipedal.label>
   <ATB_MechBipedal.corePart.parts.3.customLabel>левый радиатор</ATB_MechBipedal.corePart.parts.3.customLabel>
   <ATB_MechBipedal.corePart.parts.4.customLabel>правый радиатор</ATB_MechBipedal.corePart.parts.4.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>левый визуальный сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>правый визуальный сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>левый звуковой сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>
-  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>правый звуковой сенсор</ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>левый оптический датчик</ATB_MechBipedal.corePart.parts.7.parts.0.parts.1.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>правый оптический датчик</ATB_MechBipedal.corePart.parts.7.parts.0.parts.2.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>левый звуковой датчик</ATB_MechBipedal.corePart.parts.7.parts.0.parts.3.customLabel>
+  <ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>правый звуковой датчик</ATB_MechBipedal.corePart.parts.7.parts.0.parts.4.customLabel>
   <ATB_MechBipedal.corePart.parts.8.customLabel>левая нога</ATB_MechBipedal.corePart.parts.8.customLabel>
-  <ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>левая ступня</ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>
+  <ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>левая стопа</ATB_MechBipedal.corePart.parts.8.parts.0.customLabel>
   <ATB_MechBipedal.corePart.parts.9.customLabel>правая нога</ATB_MechBipedal.corePart.parts.9.customLabel>
-  <ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>правая ступня</ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>
+  <ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>правая стопа</ATB_MechBipedal.corePart.parts.9.parts.0.customLabel>
 
 
 </LanguageData>

@@ -6,9 +6,10 @@
 
   <!-- Recipe Users: TableMachining, ATR_MechanicalAssemblyPod -->
 
-  <Make_ATB_MicroscytherShell.label>изготовить роевую оболочку</Make_ATB_MicroscytherShell.label>
-  <Make_ATB_MicroscytherShell.description>Изготовить роевую оболочку.</Make_ATB_MicroscytherShell.description>
-  <Make_ATB_MicroscytherShell.jobString>Изготавливает роевую оболочку.</Make_ATB_MicroscytherShell.jobString>
+  <Make_ATB_MicroscytherShell.label>изготовить роевой снаряд</Make_ATB_MicroscytherShell.label>
+  <Make_ATB_MicroscytherShell.description>Изготовить роевой снаряд</Make_ATB_MicroscytherShell.description>
+  <Make_ATB_MicroscytherShell.jobString>Изготавливает роевой снаряд
+</Make_ATB_MicroscytherShell.jobString>
 
 
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_DroneWatchdog.label>Сторожевой юнит</ATB_DroneWatchdog.label>
-  <ATB_DroneWatchdog.labelPlural>Сторожевые юниты</ATB_DroneWatchdog.labelPlural>
-  <ATB_DroneWatchdog.labelMale>мужчина Сторожевой юнит</ATB_DroneWatchdog.labelMale>
-  <ATB_DroneWatchdog.labelMalePlural>мужчина Сторожевые юниты</ATB_DroneWatchdog.labelMalePlural>
-  <ATB_DroneWatchdog.labelFemale>женщина Сторожевой юнит</ATB_DroneWatchdog.labelFemale>
-  <ATB_DroneWatchdog.labelFemalePlural>женщина Сторожевые юниты</ATB_DroneWatchdog.labelFemalePlural>
+  <ATB_DroneWatchdog.label>Механический волк</ATB_DroneWatchdog.label>
+  <ATB_DroneWatchdog.labelPlural>Механические волки</ATB_DroneWatchdog.labelPlural>
+  <ATB_DroneWatchdog.labelMale>Механический волк</ATB_DroneWatchdog.labelMale>
+  <ATB_DroneWatchdog.labelMalePlural>Механические волки</ATB_DroneWatchdog.labelMalePlural>
+  <ATB_DroneWatchdog.labelFemale>Механическая волчица</ATB_DroneWatchdog.labelFemale>
+  <ATB_DroneWatchdog.labelFemalePlural>Механические волчицы</ATB_DroneWatchdog.labelFemalePlural>
 
 
 </LanguageData>

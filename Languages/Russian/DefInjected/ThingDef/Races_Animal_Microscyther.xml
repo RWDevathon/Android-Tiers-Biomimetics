@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_MicroScyther.label>Микро Скитер</ATB_MicroScyther.label>
-  <ATB_MicroScyther.description>Небольшой летающий дрон с двумя установленными по бокам лопастями из пластали. Хотя эти дроны не особенно опасны в одиночку, их редко можно увидеть в одиночку. Рои могут быстро разнести цель в клочья.\n\nЭти дроны оснащены скромными датчиками IFF, и будут атаковать любого не-микроскита.</ATB_MicroScyther.description>
+  <ATB_MicroScyther.label>Скайтер</ATB_MicroScyther.label>
+  <ATB_MicroScyther.description>Скайтер — предназначен для эффективного уничтожения целей. Хотя эти дроны не особенно опасны, их редко можно увидеть одних. Их рой может быстро разнести цель в клочья.\n\nЭти дроны оснащены датчиками IFF и атакуют всё, что не является скайтером.</ATB_MicroScyther.description>
   <ATB_MicroScyther.tools.0.label>голова</ATB_MicroScyther.tools.0.label>
   <ATB_MicroScyther.tools.1.label>левое крыло</ATB_MicroScyther.tools.1.label>
   <ATB_MicroScyther.tools.2.label>правое крыло</ATB_MicroScyther.tools.2.label>

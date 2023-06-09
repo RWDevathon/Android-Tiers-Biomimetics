@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_TrapIED_Microscyther.label>Микроцитарная ловушка</ATB_TrapIED_Microscyther.label>
-  <ATB_TrapIED_Microscyther.description>Пара микрокосых снарядов с простым триггером давления/контакта для высвобождения находящихся в них юнитов. Поскольку она скрыта в окружающей местности, ее нельзя ставить рядом с другими ловушками. Животные могут почувствовать их в спокойном состоянии.</ATB_TrapIED_Microscyther.description>
-  <ATB_TrapIED_Microscyther_Blueprint.label>Микроцитарная ловушка (чертеж)</ATB_TrapIED_Microscyther_Blueprint.label>
-  <ATB_TrapIED_Microscyther_Blueprint_Install.label>Микроцитарная ловушка (чертеж)</ATB_TrapIED_Microscyther_Blueprint_Install.label>
-  <ATB_TrapIED_Microscyther_Frame.label>Микроцитарная ловушка (строительство)</ATB_TrapIED_Microscyther_Frame.label>
-  <ATB_TrapIED_Microscyther_Frame.description>Пара микрокосых снарядов с простым триггером давления/контакта для высвобождения находящихся в них юнитов. Поскольку она скрыта в окружающей местности, ее нельзя ставить рядом с другими ловушками. Животные могут почувствовать их в спокойном состоянии.</ATB_TrapIED_Microscyther_Frame.description>
+  <ATB_TrapIED_Microscyther.label>Роевая мина</ATB_TrapIED_Microscyther.label>
+  <ATB_TrapIED_Microscyther.description>Пара роевых снарядов, присоединённых к спусковому нажимного механизму. Поскольку мины предназначены для скрытой установки, их нельзя ставить рядом с другими подобными устройствами. Животные в спокойном состоянии обходят мины и ловушки стороной.</ATB_TrapIED_Microscyther.description>
+  <ATB_TrapIED_Microscyther_Blueprint.label>Роевая мина (проект)</ATB_TrapIED_Microscyther_Blueprint.label>
+  <ATB_TrapIED_Microscyther_Blueprint_Install.label>Роевая мина (проект)</ATB_TrapIED_Microscyther_Blueprint_Install.label>
+  <ATB_TrapIED_Microscyther_Frame.label>Роевая мина (в процессе сборки)</ATB_TrapIED_Microscyther_Frame.label>
+  <ATB_TrapIED_Microscyther_Frame.description>Пара роевых снарядов, присоединённых к спусковому нажимного механизму. Поскольку мины предназначены для скрытой установки, их нельзя ставить рядом с другими подобными устройствами. Животные в спокойном состоянии обходят мины и ловушки стороной.</ATB_TrapIED_Microscyther_Frame.description>
 
 
 </LanguageData>
