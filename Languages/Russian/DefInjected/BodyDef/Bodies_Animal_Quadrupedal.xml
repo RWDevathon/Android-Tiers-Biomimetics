@@ -4,10 +4,10 @@
   <ATB_MechQuadrupedal.label>Четвероногий дрон</ATB_MechQuadrupedal.label>
   <ATB_MechQuadrupedal.corePart.parts.4.customLabel>левый радиатор</ATB_MechQuadrupedal.corePart.parts.4.customLabel>
   <ATB_MechQuadrupedal.corePart.parts.5.customLabel>правый радиатор</ATB_MechQuadrupedal.corePart.parts.5.customLabel>
-  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>левый визуальный сенсор</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>
-  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>правый визуальный сенсор</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>
-  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>левый звуковой сенсор</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>
-  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>правый звуковой сенсор</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>левый оптический датчик</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.1.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>правый оптический датчик</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.2.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>левый звуковой датчик</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.3.customLabel>
+  <ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>правый звуковой датчик</ATB_MechQuadrupedal.corePart.parts.8.parts.0.parts.4.customLabel>
   <ATB_MechQuadrupedal.corePart.parts.9.customLabel>передняя левая нога</ATB_MechQuadrupedal.corePart.parts.9.customLabel>
   <ATB_MechQuadrupedal.corePart.parts.9.parts.0.customLabel>передняя левая лапа</ATB_MechQuadrupedal.corePart.parts.9.parts.0.customLabel>
   <ATB_MechQuadrupedal.corePart.parts.10.customLabel>передняя правая нога</ATB_MechQuadrupedal.corePart.parts.10.customLabel>

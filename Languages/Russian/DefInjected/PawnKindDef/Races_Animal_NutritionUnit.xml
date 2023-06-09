@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_DroneNutritionUnit.label>Питательный юнит</ATB_DroneNutritionUnit.label>
-  <ATB_DroneNutritionUnit.labelPlural>Питательные юниты</ATB_DroneNutritionUnit.labelPlural>
-  <ATB_DroneNutritionUnit.labelMale>мужчина Питательный юнит</ATB_DroneNutritionUnit.labelMale>
-  <ATB_DroneNutritionUnit.labelMalePlural>мужчина Питательные юниты</ATB_DroneNutritionUnit.labelMalePlural>
-  <ATB_DroneNutritionUnit.labelFemale>женщина Питательный юнит</ATB_DroneNutritionUnit.labelFemale>
-  <ATB_DroneNutritionUnit.labelFemalePlural>женщина Питательные юниты</ATB_DroneNutritionUnit.labelFemalePlural>
+  <ATB_DroneNutritionUnit.label>Механическая корова</ATB_DroneNutritionUnit.label>
+  <ATB_DroneNutritionUnit.labelPlural>Механические коровы</ATB_DroneNutritionUnit.labelPlural>
+  <ATB_DroneNutritionUnit.labelMale>Механический бык</ATB_DroneNutritionUnit.labelMale>
+  <ATB_DroneNutritionUnit.labelMalePlural>Механические быки</ATB_DroneNutritionUnit.labelMalePlural>
+  <ATB_DroneNutritionUnit.labelFemale>Механическая корова</ATB_DroneNutritionUnit.labelFemale>
+  <ATB_DroneNutritionUnit.labelFemalePlural>Механические коровы</ATB_DroneNutritionUnit.labelFemalePlural>
 
 
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_DroneTORT.label>TORT юнит</ATB_DroneTORT.label>
-  <ATB_DroneTORT.labelPlural>TORT юниты</ATB_DroneTORT.labelPlural>
-  <ATB_DroneTORT.labelMale>мужчина TORT юнит</ATB_DroneTORT.labelMale>
-  <ATB_DroneTORT.labelMalePlural>мужчина TORT юниты</ATB_DroneTORT.labelMalePlural>
-  <ATB_DroneTORT.labelFemale>женщина TORT юнит</ATB_DroneTORT.labelFemale>
-  <ATB_DroneTORT.labelFemalePlural>женщина TORT юниты</ATB_DroneTORT.labelFemalePlural>
+  <ATB_DroneTORT.label>Механическая черепаха</ATB_DroneTORT.label>
+  <ATB_DroneTORT.labelPlural>Механические черепахи</ATB_DroneTORT.labelPlural>
+  <ATB_DroneTORT.labelMale>Механическая черепаха</ATB_DroneTORT.labelMale>
+  <ATB_DroneTORT.labelMalePlural>Механические черепахи</ATB_DroneTORT.labelMalePlural>
+  <ATB_DroneTORT.labelFemale>Механическая черепаха</ATB_DroneTORT.labelFemale>
+  <ATB_DroneTORT.labelFemalePlural>Механические черепахи</ATB_DroneTORT.labelFemalePlural>
 
 
 </LanguageData>

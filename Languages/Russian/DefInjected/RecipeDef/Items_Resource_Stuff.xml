@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_Make_ChemfuelFromChemCapsule.label>синтезировать химическое топливо из химических капсул</ATB_Make_ChemfuelFromChemCapsule.label>
-  <ATB_Make_ChemfuelFromChemCapsule.description>Произведите партию химического топлива, переработав сырьевые ресурсы в химических капсулах.</ATB_Make_ChemfuelFromChemCapsule.description>
-  <ATB_Make_ChemfuelFromChemCapsule.jobString>Переработка химтоплива из капсул.</ATB_Make_ChemfuelFromChemCapsule.jobString>
+  <ATB_Make_ChemfuelFromChemCapsule.label>получить химтопливо из химкапсул</ATB_Make_ChemfuelFromChemCapsule.label>
+  <ATB_Make_ChemfuelFromChemCapsule.description>Получить партию химического топлива путём извлечения реактивов из химкапсул.</ATB_Make_ChemfuelFromChemCapsule.description>
+  <ATB_Make_ChemfuelFromChemCapsule.jobString>Производит химтопливо из химкапсул.</ATB_Make_ChemfuelFromChemCapsule.jobString>
 
-  <ATB_Make_NeutroamineFromChemCapsule.label>синтезировать нейтроамин из химических капсул</ATB_Make_NeutroamineFromChemCapsule.label>
-  <ATB_Make_NeutroamineFromChemCapsule.description>Произведите партию нейтроамина путем переработки сырья в химических капсулах.</ATB_Make_NeutroamineFromChemCapsule.description>
-  <ATB_Make_NeutroamineFromChemCapsule.jobString>Переработка нейтроамина из капсул.</ATB_Make_NeutroamineFromChemCapsule.jobString>
+  <ATB_Make_NeutroamineFromChemCapsule.label>получить нейтроамин из химкапсул</ATB_Make_NeutroamineFromChemCapsule.label>
+  <ATB_Make_NeutroamineFromChemCapsule.description>Получить партию нейтроамина путём извлечения реактивов из химкапсул.</ATB_Make_NeutroamineFromChemCapsule.description>
+  <ATB_Make_NeutroamineFromChemCapsule.jobString>Производит нейтроамин из химкапсул.</ATB_Make_NeutroamineFromChemCapsule.jobString>
 
 
 </LanguageData>

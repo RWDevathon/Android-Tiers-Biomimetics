@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_NutrientSolution.label>питательный раствор</ATB_NutrientSolution.label>
-  <ATB_NutrientSolution.description>Густая суспензия высокобелковых и высококалорийных веществ, по консистенции напоминающая мед, но с более грубым вкусом, который не является ни противным, ни сладким. Этот раствор нестабилизирован, и его необходимо обрабатывать химическими капсулами, чтобы достичь его пресловутого не портящегося состояния.</ATB_NutrientSolution.description>
+  <ATB_NutrientSolution.label>орграствор</ATB_NutrientSolution.label>
+  <ATB_NutrientSolution.description>Густая высококалорийная кашица с высоким содержанием белка, которая имеет невыразительную медовую консистенцию, и приятный вкус. Этот раствор нестабилизирован, и его необходимо обработать химкапсулами, чтобы достичь его не портящегося состояния.</ATB_NutrientSolution.description>
 
-  <ATB_NutritionBlock.label>питательный блок</ATB_NutritionBlock.label>
-  <ATB_NutritionBlock.description>Плотный, богатый питательными веществами блок, созданный путем стабилизации питательного раствора с помощью химических капсул. Это вещество, похожее на рассыпчатую форму сыра, никогда не просрочится и насыщено необходимыми питательными веществами для пропитания.</ATB_NutritionBlock.description>
+  <ATB_NutritionBlock.label>оргкапсула</ATB_NutritionBlock.label>
+  <ATB_NutritionBlock.description>Органическая высококалорийная капсула, богатая белками. Оргкапсула никогда не испортится и полна органических питательных веществ.</ATB_NutritionBlock.description>
 
 
 </LanguageData>
