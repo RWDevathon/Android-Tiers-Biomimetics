@@ -12,7 +12,6 @@
 			<ArmorRating_Sharp>0.45</ArmorRating_Sharp>
             <MHC_NutritionalIntakeEfficiency>1</MHC_NutritionalIntakeEfficiency>
             <MHC_ChargingSpeed>2</MHC_ChargingSpeed>
-            <MHC_MechanicalNeedCapacity>1</MHC_MechanicalNeedCapacity>
             <Mass>80</Mass>
 		</statBases>
 		<tools>
@@ -117,8 +116,8 @@
                     <li MayRequire="Dubwise.DubsBadHygiene">DBHThirst</li>
                 </blacklistedNeeds>
                 <mechanicalNeeds>
-                    <li>MHC_Coolant</li>
-                    <li>MHC_Lubrication</li>
+                    <MHC_Coolant>1</MHC_Coolant>
+                    <MHC_Lubrication>2</MHC_Lubrication>
                 </mechanicalNeeds>
             </li>
 		</modExtensions>

@@ -8,7 +8,6 @@
         <statBases>
             <MoveSpeed>2.00</MoveSpeed>
             <MarketValue>600</MarketValue>
-            <MHC_MechanicalNeedCapacity>2</MHC_MechanicalNeedCapacity>
         </statBases>
         <tools>
             <li>
@@ -71,7 +70,7 @@
                     <li MayRequire="Dubwise.DubsBadHygiene">DBHThirst</li>
                 </blacklistedNeeds>
                 <mechanicalNeeds>
-                    <li>MHC_Coolant</li>
+                    <MHC_Coolant>2</MHC_Coolant>
                 </mechanicalNeeds>
             </li>
 		</modExtensions>
