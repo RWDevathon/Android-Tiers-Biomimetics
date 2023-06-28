@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_ChemCapsule.label>Химическая капсула</ATB_ChemCapsule.label>
-  <ATB_ChemCapsule.description>Небольшая плотная капсула, наполненная синтетическими химическими веществами-прекурсорами, готовыми к переработке в нейтроамин или химическое топливо.</ATB_ChemCapsule.description>
+  <ATB_ChemCapsule.label>химкапсула</ATB_ChemCapsule.label>
+  <ATB_ChemCapsule.description>Небольшая плотная капсула, полная синтетических химических веществ, готовых к переработке в нейтроамин или химтопливо.</ATB_ChemCapsule.description>
 
 
 </LanguageData>

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ATB_DroneChemUnit.label>Юнит хим-переработки</ATB_DroneChemUnit.label>
-  <ATB_DroneChemUnit.labelPlural>Юниты хим-переработки</ATB_DroneChemUnit.labelPlural>
-  <ATB_DroneChemUnit.labelMale>мужчина Юнит хим-переработки</ATB_DroneChemUnit.labelMale>
-  <ATB_DroneChemUnit.labelMalePlural>мужчина Юниты хим-переработки</ATB_DroneChemUnit.labelMalePlural>
-  <ATB_DroneChemUnit.labelFemale>женщина Юнит хим-переработки</ATB_DroneChemUnit.labelFemale>
-  <ATB_DroneChemUnit.labelFemalePlural>женщина Юниты хим-переработки</ATB_DroneChemUnit.labelFemalePlural>
+  <ATB_DroneChemUnit.label>механическая курица</ATB_DroneChemUnit.label>
+  <ATB_DroneChemUnit.labelPlural>механические курицы</ATB_DroneChemUnit.labelPlural>
+  <ATB_DroneChemUnit.labelMale>механический петух</ATB_DroneChemUnit.labelMale>
+  <ATB_DroneChemUnit.labelMalePlural>механические петухи</ATB_DroneChemUnit.labelMalePlural>
+  <ATB_DroneChemUnit.labelFemale>механическая курица</ATB_DroneChemUnit.labelFemale>
+  <ATB_DroneChemUnit.labelFemalePlural>механические курицы</ATB_DroneChemUnit.labelFemalePlural>
 
 
 </LanguageData>
