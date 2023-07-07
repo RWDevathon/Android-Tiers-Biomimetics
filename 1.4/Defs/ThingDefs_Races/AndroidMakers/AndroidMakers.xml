@@ -11,7 +11,7 @@
         </graphicData>
         <recipeMaker>
             <skillRequirements>
-                <Crafting>12</Crafting>
+                <Crafting>6</Crafting>
             </skillRequirements>
             <researchPrerequisite>ATB_MilitaryBiomimetics</researchPrerequisite>
         </recipeMaker>

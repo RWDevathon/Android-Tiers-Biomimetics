@@ -12,7 +12,6 @@
 		</statBases>
 		<comps>
 			<li Class="CompProperties_EggLayer">
-
 				<eggUnfertilizedDef>ATB_ChemCapsule</eggUnfertilizedDef>
 				<eggFertilizedDef>ATB_ChemCapsule</eggFertilizedDef>
 				<eggFertilizationCountMax>1</eggFertilizationCountMax>

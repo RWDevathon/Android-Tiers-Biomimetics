@@ -63,7 +63,7 @@
                     <li MayRequire="Dubwise.DubsBadHygiene">DBHThirst</li>
                 </blacklistedNeeds>
                 <mechanicalNeeds>
-                    <MHC_Coolant>2</MHC_Coolant>
+                    <li><key>MHC_Coolant</key><value>2</value></li>
                 </mechanicalNeeds>
             </li>
 		</modExtensions>
