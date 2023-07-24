@@ -5,7 +5,7 @@
 	<Operation Class="PatchOperationConditional">
         <xpath>Defs/FactionDef[defName="ATR_AndroidUnion"]/pawnGroupMakers/li/carriers/Muffalo</xpath>
         <match Class="PatchOperationRemove">
-            <xpath>Defs/FactionDef/pawnGroupMakers/li/carriers/Muffalo</xpath>
+            <xpath>Defs/FactionDef[defName="ATR_AndroidUnion"]/pawnGroupMakers/li/carriers/Muffalo</xpath>
         </match>
 	</Operation>
 
