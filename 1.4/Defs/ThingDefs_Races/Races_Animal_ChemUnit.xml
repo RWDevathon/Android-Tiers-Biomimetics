@@ -36,7 +36,7 @@
             <baseHungerRate>0.14</baseHungerRate>
 			<baseBodySize>0.3</baseBodySize>
 			<baseHealthScale>0.5</baseHealthScale>
-			<foodType>OmnivoreRoughAnimal</foodType>
+			<foodType>CarnivoreAnimal</foodType>
 			<nameOnTameChance>1</nameOnTameChance>
 			<lifeStageAges>
 				<li>
