@@ -38,6 +38,9 @@
 			<baseHealthScale>0.5</baseHealthScale>
 			<foodType>CarnivoreAnimal</foodType>
 			<nameOnTameChance>1</nameOnTameChance>
+			<hediffGiverSets Inherit="False">
+				<li>ATR_MechanicalCoolantless</li>
+			</hediffGiverSets>
 			<lifeStageAges>
 				<li>
 					<def>AnimalAdult</def>

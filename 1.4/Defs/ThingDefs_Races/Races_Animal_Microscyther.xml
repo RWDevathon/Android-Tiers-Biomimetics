@@ -49,6 +49,9 @@
 			<baseHealthScale>0.4</baseHealthScale>
 			<foodType>None</foodType>
 			<lifeExpectancy>1</lifeExpectancy>
+			<hediffGiverSets Inherit="False">
+				<li>ATR_MechanicalCoolantless</li>
+			</hediffGiverSets>
             <lifeStageAges>
                 <li>
                     <def>AnimalAdult</def>
