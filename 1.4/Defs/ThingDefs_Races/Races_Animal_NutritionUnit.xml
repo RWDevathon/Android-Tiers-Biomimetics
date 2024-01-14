@@ -60,7 +60,6 @@
                 <blacklistedNeeds>
                     <li MayRequire="Dubwise.DubsBadHygiene">Hygiene</li>
                     <li MayRequire="Dubwise.DubsBadHygiene">Bladder</li>
-                    <li MayRequire="Dubwise.DubsBadHygiene">DBHThirst</li>
                 </blacklistedNeeds>
                 <mechanicalNeeds>
                     <li><key>MHC_Coolant</key><value>2</value></li>

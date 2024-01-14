@@ -62,7 +62,6 @@
                 <blacklistedNeeds>
                     <li MayRequire="Dubwise.DubsBadHygiene">Hygiene</li>
                     <li MayRequire="Dubwise.DubsBadHygiene">Bladder</li>
-                    <li MayRequire="Dubwise.DubsBadHygiene">DBHThirst</li>
                 </blacklistedNeeds>
             </li>
 		</modExtensions>
